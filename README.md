@@ -1,4 +1,4 @@
-# HEllo Cloudreach
+# Hello Cloudreach
 
 # Kubernetes Test Infrastructure
 
