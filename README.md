@@ -1,4 +1,4 @@
-Hello cloudreach
+Hello & Bonjour cloudreach
 
 # Kubernetes Test Infrastructure
 
